@@ -18,15 +18,12 @@ A modern, responsive todo list app with full CRUD functionality and local storag
 
 **Technologies:** HTML5, CSS3, Vanilla JavaScript
 
-[📂 View Source Code](./Todo%20List/) | [🌐 Live Demo](https://sajan-mahla.github.io/Js-Projects/Todo%20List/)
+[📂 View Source Code](./Todo%20List/) 
 
 ---
 
-### 🔮 Coming Soon
-- 🧮 **Calculator** - Scientific calculator with advanced functions
-- 🌤️ **Weather App** - Real-time weather data with API integration
-- 🎮 **Memory Game** - Interactive matching game with animations
-- 📊 **Expense Tracker** - Personal finance management tool
+### 🔮 Coming Soon More Projects 🚀
+
 
 ## 🛠️ Technologies Used
 
