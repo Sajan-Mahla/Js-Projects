@@ -142,8 +142,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 
-- GitHub: [@lick me](https://github.com/Sajan-Mahla)
-- LinkedIn: [Click me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sajan-mahla/))
+- GitHub: [@Click me](https://github.com/Sajan-Mahla)
+- LinkedIn: [@Click me]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sajan-mahla/))
 
 ## 🙏 Acknowledgments
 
