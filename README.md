@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Sajan Mahla**
 - GitHub: [@Sajan-Mahla](https://github.com/Sajan-Mahla)
-- LinkedIn: [Harsimranjeet Singh Mahla](https://linkedin.com/in/your-profile)
+- LinkedIn: [Harsimranjeet Singh Mahla]((https://www.linkedin.com/in/sajan-mahla/))
 
 ---
 
